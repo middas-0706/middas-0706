@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **teslworkermakov@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://linktr.ee/yermakovivan](https://linktr.ee/yermakovivan)**
+- 👨‍💻 All of my links are available at **[https://linktr.ee/yermakovivan](https://linktr.ee/yermakovivan)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
