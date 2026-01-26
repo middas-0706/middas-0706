@@ -2,7 +2,6 @@
 
 ### A passionate data analyst with digital marketing background form Germany 🇩🇪
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=middas-0706" alt="middas-0706" /></a> </p>
 
 - 🔭 I'm currently working on **Data analytics at Elithair **
 
